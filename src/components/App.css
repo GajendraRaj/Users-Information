@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+#paging-numbers {
+  list-style: none;
+  display: inline-flex;
+}
+
+#paging-numbers > li {
+  margin-right: 0.4em;
+  color: maroon;
+  user-select: none;
+  cursor: pointer;
+  border: solid;
+  border-color: grey;
+}

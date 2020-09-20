@@ -1,10 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Users Information App
 
-## Available Scripts
+React application having a data grid on the page with following functionalities:
 
-In the project directory, you can run:
+1. The grid should have an add row button, once clicked on that a popup should open with a form to fill the required data like name, age, address, pin code, country etc . once its saved the grid should be updated with new row.
 
-### `yarn start`
+2. There should be a remove button/icon with each row, which once clicked should open a confirmation pop-up : “Are you sure you want to delete”.
+
+3. The data grid should have 100 records of row data by default, use mock data.
+
+4. The page should be responsive in design.
+
+## `yarn start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.

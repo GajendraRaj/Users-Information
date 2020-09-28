@@ -10,9 +10,11 @@ React application having a data grid on the page with following functionalities:
 
 4. The page should be responsive in design.
 
-## `yarn start`
+## `yarn install and yarn start`
 
-Runs the app in the development mode.<br />
+First run the command as 'Yarn install' to download all the dependencies. 
+
+Runs the app using command 'Yarn start' in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
